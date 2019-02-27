@@ -1,11 +1,15 @@
   .headline {
   color: orange;
   font-size: small;
-  font-family:"VAGRoundedLTW04-Thin";
+  @font-face{
+        font-family:"VAGRoundedLTW04-Thin";
+        src:url("Fonts/VAGRoundedLTW04-Thin.eot?#iefix");
+        src:url("Fonts/VAGRoundedLTW04-Thin.eot?#iefix") format("eot"),url("Fonts/VAGRoundedLTW04-Thin.woff2") format("woff2"),url("Fonts/VAGRoundedLTW04-Thin.woff") format("woff"),url("Fonts/VAGRoundedLTW04-Thin.ttf") format("truetype");
+    }
 
-   /* }    
+    }    
 
-    @font-face{
+   /* @font-face{
         font-family:"VAGRoundedLTW04-Thin";
         src:url("Fonts/VAGRoundedLTW04-Thin.eot?#iefix");
         src:url("Fonts/VAGRoundedLTW04-Thin.eot?#iefix") format("eot"),url("Fonts/VAGRoundedLTW04-Thin.woff2") format("woff2"),url("Fonts/VAGRoundedLTW04-Thin.woff") format("woff"),url("Fonts/VAGRoundedLTW04-Thin.ttf") format("truetype");
