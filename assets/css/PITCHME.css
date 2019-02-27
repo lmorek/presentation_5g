@@ -1,6 +1,8 @@
   .headline {
-  color: blue;
-  size: medium;
+  color: orange;
+  font-size: medium;
+  font-family:"VAGRoundedLTW04-Thin";
+
    /* }    
 
     @font-face{
