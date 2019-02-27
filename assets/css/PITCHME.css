@@ -1,3 +1,8 @@
+  .headline {
+  color: blue;
+  size: medium;
+    }    
+
     @font-face{
         font-family:"VAGRoundedLTW04-Thin";
         src:url("Fonts/VAGRoundedLTW04-Thin.eot?#iefix");
