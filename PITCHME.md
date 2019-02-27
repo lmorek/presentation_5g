@@ -1,4 +1,4 @@
-# Connectivity in automotive
+###@size[medium] @color[blue] (Connectivity in automotive)
 
 - What is 5G?
 - What is needed to use 5G?
