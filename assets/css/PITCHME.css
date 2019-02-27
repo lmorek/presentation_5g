@@ -1,0 +1,20 @@
+    @font-face{
+        font-family:"VAGRoundedLTW04-Thin";
+        src:url("Fonts/VAGRoundedLTW04-Thin.eot?#iefix");
+        src:url("Fonts/VAGRoundedLTW04-Thin.eot?#iefix") format("eot"),url("Fonts/VAGRoundedLTW04-Thin.woff2") format("woff2"),url("Fonts/VAGRoundedLTW04-Thin.woff") format("woff"),url("Fonts/VAGRoundedLTW04-Thin.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"VAGRoundedLTW04-Light";
+        src:url("Fonts/VAGRoundedLTW04-Light.eot?#iefix");
+        src:url("Fonts/VAGRoundedLTW04-Light.eot?#iefix") format("eot"),url("Fonts/VAGRoundedLTW04-Light.woff2") format("woff2"),url("Fonts/VAGRoundedLTW04-Light.woff") format("woff"),url("Fonts/VAGRoundedLTW04-Light.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"VAGRoundedLTW04-Bold";
+        src:url("Fonts/VAGRoundedLTW04-Bold.eot?#iefix");
+        src:url("Fonts/VAGRoundedLTW04-Bold.eot?#iefix") format("eot"),url("Fonts/VAGRoundedLTW04-Bold.woff2") format("woff2"),url("Fonts/VAGRoundedLTW04-Bold.woff") format("woff"),url("Fonts/VAGRoundedLTW04-Bold.ttf") format("truetype");
+    }
+    @font-face{
+        font-family:"VAGRoundedLTW04-Black";
+        src:url("Fonts/VAGRoundedLTW04-Black.eot?#iefix");
+        src:url("Fonts/VAGRoundedLTW04-Black.eot?#iefix") format("eot"),url("Fonts/VAGRoundedLTW04-Black.woff2") format("woff2"),url("Fonts/VAGRoundedLTW04-Black.woff") format("woff"),url("Fonts/VAGRoundedLTW04-Black.ttf") format("truetype");
+    }
