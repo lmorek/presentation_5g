@@ -1,6 +1,10 @@
-# Flux
+# Connectivity in automotive
 
-An application architecture for React
+- What is 5G?
+- What is needed to use 5G?
+- How it differs from 3G/LTE?
+- Why it is so hot topic?
+- How we can use it?
 
 #HSLIDE
 
