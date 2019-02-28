@@ -6,8 +6,11 @@
 - How it differs from 3G/LTE?
 - Why it is so hot topic?
 - How we can use it?
----
+---  
+@snap[north]
 ###What is 5G?
+@snapend
+
 ![](assets/img/11258.png)
 ---
 ### Flux Design
