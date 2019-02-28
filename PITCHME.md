@@ -6,7 +6,8 @@
 - Why it is so hot topic?
 - How we can use it?
 
-#HSLIDE
+#What is 5G?
+![about%g] (assets/img/11258.png)
 
 ### Flux Design
 
