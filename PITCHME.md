@@ -1,6 +1,6 @@
 ## @css[headline test-font](Connectivity in automotive)
 
-- What is 5G?
+- @css[test-font](What is 5G?)
 - What is needed to use 5G?
 - How it differs from 3G/LTE?
 - Why it is so hot topic?
